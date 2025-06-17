@@ -21,7 +21,7 @@ int main()
             mostFreq = i;
         }
     }
-    printf("Phần tử xuất hiện nhiều nhất là %d (Xuất hiện %d lần)" ,mostFreq, maxCount);
+    printf("Phan tu xuat hien nhieu nhat la %d (xuat hien %d lan)" ,mostFreq, maxCount);
     return 0;
 }
 //Độ phức tạp thời gian O(n +k)
