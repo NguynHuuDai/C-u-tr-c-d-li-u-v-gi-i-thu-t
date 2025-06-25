@@ -28,5 +28,7 @@ int main()
             printf("Phan tu muon tim o vi tri %d", i);
         }
     }
+
+    free(arr);
     return 0;
 }
